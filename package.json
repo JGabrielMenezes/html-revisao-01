@@ -1,0 +1,13 @@
+{
+  "name": "eu_no_mundo",
+  "version": "1.0.0",
+  "description": "daqui a 1 ano",
+  "main": "eunomundo.html",
+  "scripts": {
+  },
+  "keywords": [
+    "gabriel"
+  ],
+  "author": "gabriel",
+  "license": "ISC"
+}
