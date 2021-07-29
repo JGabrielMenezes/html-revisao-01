@@ -1,0 +1,13 @@
+{
+  "name": "ola-mundo",
+  "version": "1.0.0",
+  "description": "arquivo .json e .html",
+  "main": "index.html",
+  "scripts": { 
+  },
+  "keywords": [
+    "index"
+  ],
+  "author": "gabriel",
+  "license": "ISC"
+}
